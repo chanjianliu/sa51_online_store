@@ -11,7 +11,7 @@ To connect to your MS Sql Server:
 Please remember to change the server name in appsettings.json
 
 Additional features:
-1. Register
-2. Saved shopping cart details according to user.
+1. Buyer Registration
+2. Saved shopping cart details according to user account
 3. Notification when clicking "add to cart"(Toastr)
 4. Google Pay
